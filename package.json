@@ -1,0 +1,25 @@
+{
+  "name": "docStorage",
+  "version": "0.0.1",
+  "description": "A hybrid versioned storage for offline and online web apps. Stores locally when offline, syncs when online.",
+  "main": "docStorage.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start karma-ci.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AVGP/docStorage.js.git"
+  },
+  "author": "AVGP (Martin Naumann)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AVGP/docStorage.js/issues"
+  },
+  "devDependencies": {
+    "karma": "0.10.9",
+    "phantomjs": "1.9.6"
+  }
+}
