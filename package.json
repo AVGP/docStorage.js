@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "karma": "0.10.9",
-    "phantomjs": "1.9.6"
+    "phantomjs": "1.9.6-0"
   }
 }
