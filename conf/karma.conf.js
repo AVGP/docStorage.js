@@ -16,7 +16,7 @@ module.exports = function(config) {
     files: [
       '*.js',
       'backends/*.js',
-      'test/*.js'
+      'test/**/*.js'
     ],
 
 
