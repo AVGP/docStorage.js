@@ -14,7 +14,7 @@ It will also take a bit to support the different types of local storage (localSt
 The current roadmap is:
 
 1. Support localStorage
-2. Add sync with Firebase
+2. Add sync with [Draftin](http://www.draftin.com)
 3. Add support for Indexed DB
 4. Add support for Web SQL
 5. Add more sync providers (which?)
